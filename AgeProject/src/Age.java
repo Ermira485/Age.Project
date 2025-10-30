@@ -16,4 +16,5 @@ public class Age {
         scanner.close();
     }
 }
+// Added main logic to check age
 
