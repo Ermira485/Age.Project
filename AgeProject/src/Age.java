@@ -17,4 +17,5 @@ public class Age {
     }
 }
 // Added main logic to check age
+// Cleaned up and tested program
 
